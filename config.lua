@@ -1,6 +1,6 @@
 Config = {}
 
-Config.DrawableType = 8 -- The Rest Can Be Found Here https://docs.fivem.net/natives/?_0x67F3780DD425D4FC
+Config.DrawableType = 7 -- The Rest Can Be Found Here https://docs.fivem.net/natives/?_0x67F3780DD425D4FC
 
 -- First One is holster with gun in it, Second is without gun
 Config.Drawables = {
